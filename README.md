@@ -10,8 +10,8 @@ and enjoy xkcd from your desktop!
 Quick Start
 -----------
 In terminal:   
-`gnome-session-properties`   
 `hash convert 2>/dev/null || sudo apt-get install imagemagick`   
+`gnome-session-properties`   
 In popup:   
 Add->(browse to and select xkcdestop.sh)   
 (type in name and description)
